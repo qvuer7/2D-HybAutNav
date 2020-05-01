@@ -1,4 +1,4 @@
-from functions.functions import get_random_node,get_nearest_node,generate_final_course,check_obstacle,check_drones,make_step
+from functions.functions import get_random_node,get_nearest_node,generate_final_course,check_obstacle,check_drones,make_step, node
 import matplotlib.pyplot as plt
 import time
 
